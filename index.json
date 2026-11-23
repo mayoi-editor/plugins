@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "buffer-diff",
+    "displayName": "Buffer Diff",
+    "description": "Compare and edit open buffers, including unsaved documents, side by side.",
+    "author": "xgfone",
+    "repository": "https://github.com/xgfone/mayoi-buffer-diff",
+    "tags": ["diff", "text", "buffers"]
+  },
+  {
+    "name": "rest-client",
+    "displayName": "REST Client",
+    "description": "Send and cancel HTTP requests from text, with complete responses and HTTP/JSON highlighting.",
+    "author": "xgfone",
+    "repository": "https://github.com/xgfone/mayoi-rest-client",
+    "tags": ["http", "rest", "api", "json"]
+  }
+]
