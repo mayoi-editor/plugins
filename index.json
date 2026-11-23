@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "java",
+    "displayName": "Java",
+    "description": "Java with jdtls",
+    "repository": "https://github.com/HelloThreeLiu/mayoi-java",
+    "languages": ["java"],
+    "detect": "jdtls",
+    "install": "brew install jdtls"
+  }
+]
