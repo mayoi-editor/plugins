@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "golangci-lint",
+    "displayName": "golangci-lint",
+    "description": "Warnings from golangci-lint in Go files",
+    "author": "lichunqiang",
+    "repository": "https://github.com/lichunqiang/mayoi-golangci-lint",
+    "tags": ["go", "lint", "golangci-lint"]
+  }
+]
